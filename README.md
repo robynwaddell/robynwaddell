@@ -11,6 +11,7 @@ Feel free to connect with me via email.
 <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=2aa889")/>&nbsp;
 <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=2aa889")/>&nbsp;
 </div>
+  ## Stats
 <a href="https://github.com/robynwaddell">
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=robynwaddell&theme=vue&show_icons=true" alt="My GitHub stats" />
 </a>
